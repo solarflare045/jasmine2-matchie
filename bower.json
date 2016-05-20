@@ -1,0 +1,25 @@
+{
+  "name": "jasmine2-matchie",
+  "main": "index.js",
+  "version": "1.0.0",
+  "authors": [
+    "Max Sorensen <medal4me2@gmail.com>"
+  ],
+  "description": "Adds Matchie to the Jasmine2 custom equality testers.",
+  "keywords": [
+    "jasmine",
+    "matchie"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "matchie": "^1.0.3",
+    "lodash": "*"
+  }
+}
